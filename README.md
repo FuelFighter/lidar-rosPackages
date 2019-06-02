@@ -22,7 +22,7 @@ open3d and pcl library.
 - Download [ouster_example](https://github.com/ouster-lidar/ouster_example)
 
 ### Setup guide
-- From ouster_example build and run [ouster_client] (https://github.com/ouster-lidar/ouster_example/tree/master/ouster_client)
+- From ouster_example build and run .[ouster_client] (https://github.com/ouster-lidar/ouster_example/tree/master/ouster_client)
 - [OS1 User Guide](https://drive.google.com/file/d/1Ww8KSlRaKdyPaOmQRnItZsrmJls8crG-/view)
 - Set vertical and hoiszontal reselution to 2048 and 64 respectively 
 
